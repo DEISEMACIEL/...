@@ -129,7 +129,9 @@ body {
     }
 }
 
-#texto-1 {}
+#texto-1 {
+    display: none;
+}
 
 #texto-2 {
     display: none;

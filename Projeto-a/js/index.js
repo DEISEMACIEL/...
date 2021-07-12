@@ -21,12 +21,12 @@ function logarNome() {
 
 function clickNoProjetos() {
     console.log("clicou no botão projetos");
-    texto2.style.display = "block";
-    texto1.style.display = "none;"
+    texto1.style.display = "block";
+    texto2.style.display = "none;"
 }
 
 function clickNoSobre() {
-    console.log("clicou no botãos");
+    console.log("clicou no botão sobre");
     texto2.style.display = "block";
     texto1.style.display = "none";
 }
