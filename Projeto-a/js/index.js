@@ -22,7 +22,7 @@ function logarNome() {
 function clickNoProjetos() {
     console.log("clicou no botão projetos");
     texto1.style.display = "block";
-    texto2.style.display = "none;"
+    texto2.style.display = "none";
 }
 
 function clickNoSobre() {
